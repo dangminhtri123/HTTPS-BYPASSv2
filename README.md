@@ -16,4 +16,4 @@ node HTTPS-BYPASSv2.js + URL/TARGET + TIME + THREADS + LIST PROXY :V
 
 VÍ DỤ :
 
-node HTTPS-BYPASSv2.j https://dagtriDepTrai.com 60 5 PROXYVIP.txt
+node HTTPS-BYPASSv2.js https://dagtriDepTrai.com 60 5 PROXYVIP.txt
